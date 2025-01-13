@@ -4,9 +4,9 @@
 
 | **Category**           | **Score (1-3)** | **Feedback**                                                                           |
 |-------------------------|-----------------|---------------------------------------------------------------------------------------|
-| **Documentation**       |                 | [Feedback on docstrings, comments, and style.]                                        |
-| **Functionality**       |                 | [Feedback on tests, edge cases, and overall code performance.]                       |
-| **Narrative Responses** |                 | [Feedback on clarity, depth, and integration of the narrative.]                      |
+| **Documentation**       |                 |                       |
+| **Functionality**       |                 |                       |
+| **Narrative Responses** |                 |                       |
 
 ---
 
