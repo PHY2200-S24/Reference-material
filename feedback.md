@@ -4,9 +4,9 @@
 
 | **Category**           | **Score (1-3)** | **Feedback**                                                                           |
 |-------------------------|-----------------|---------------------------------------------------------------------------------------|
-| **Documentation**       |                 |                       |
-| **Functionality**       |                 |                       |
-| **Narrative Responses** |                 |                       |
+| **Documentation**       |                 |                        |
+| **Functionality**       |                 |                        |
+| **Narrative Responses** |                 |                        |
 
 ---
 
