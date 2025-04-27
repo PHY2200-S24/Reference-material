@@ -1,12 +1,12 @@
-### **Monte Carlo Project Feedback**  
+### **Unit 4 Project Feedback**  
 **Total Score: ___ / 100**  
-*30% 1:1 Meeting, 25% Functionality, 25% Narrative, 20% Documentation*  
+*30% 1:1 Meeting, 30% Functionality, 20% Narrative, 20% Documentation*  
 
 | **Category**           | **Grade (A-F)** | **Score (%)** | **Feedback** |
 |------------------------|----------------|--------------|-------------|
 | **1:1 Meeting (30%)**  |                |              |             |
-| **Functionality (25%)** |                |              |             |
-| **Narrative (25%)**    |                |              |             |
+| **Functionality (30%)** |                |              |             |
+| **Narrative (20%)**    |                |              |             |
 | **Documentation (20%)** |                |              |             |
 
 ---
