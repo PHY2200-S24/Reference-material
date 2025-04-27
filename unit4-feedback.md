@@ -1,6 +1,6 @@
 ### **Unit 4 Project Feedback**  
 **Total Score: ___ / 100**  
-*30% 1:1 Meeting, 30% Functionality, 20% Narrative, 20% Documentation*  
+*30% 1:1 Meeting, 30% Functionality, 30% Narrative, 10% Documentation*  
 
 | **Category**           | **Grade (A-F)** | **Score (%)** | **Feedback** |
 |------------------------|----------------|--------------|-------------|
